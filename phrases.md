@@ -146,7 +146,7 @@ Regional Dishonor Society
 Snake Biter
 Code Breaker
 Deli Meat
-My First Hat3
+My First Hat
 Dot Matrix
 Food Coma
 Tandem Alert
