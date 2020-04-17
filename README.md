@@ -15,7 +15,7 @@ Here they are. See phrases.md for the raw text.
 - Joystick Master
 - Bigfoot Expert
 - Over Easy
-- ESP Tutor E.S.P. Tutor
+- ESP Tutor
 - Kung Fu Beech
 - Rods Rods
 - Karate Sluts
@@ -152,14 +152,14 @@ Here they are. See phrases.md for the raw text.
 - Snake Biter
 - Code Breaker
 - Deli Meat
-- My First Hat3
+- My First Hat
 - Dot Matrix
 - Food Coma
 - Tandem Alert
 - Plumber College
 - Busy Signal
 - Sitting Ovation
-- I Give Up4
+- I Give Up
 - Nap Partner
 - Casual Flosser
 - Van With Man
