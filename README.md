@@ -78,7 +78,6 @@ Here they are. See phrases.md for the raw text.
 - Pinball Mechanic
 - Phase 3
 - Feelin' It
-- Jumbled letters3
 - Emotional Friend
 - incompl te
 - Two Fare Zone
