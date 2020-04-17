@@ -9,7 +9,7 @@ Hand Held
 Joystick Master
 Bigfoot Expert
 Over Easy
-ESP Tutor E.S.P. Tutor
+ESP Tutor
 Kung Fu Beech
 Rods Rods
 Karate Sluts
@@ -153,7 +153,7 @@ Tandem Alert
 Plumber College
 Busy Signal
 Sitting Ovation
-I Give Up4
+I Give Up
 Nap Partner
 Casual Flosser
 Van With Man
